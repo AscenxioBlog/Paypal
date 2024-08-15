@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.list1 li:hover{
+    border-bottom: 2px solid white;
+}
+.abs{
+    border: 1px solid black;
+}
